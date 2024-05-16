@@ -1,7 +1,7 @@
 // 📦 Projects list: Customize with your own project details.
 export const projects = [
   {
-    title: 'Airbnb clone',
+    title: 'Airbnb Clone',
     githubUrl: 'https://github.com/KarinPit/AirBnB', 
     externalUrl: '',
     languages: ['Vue.js', 'React', 'JavaScript'], // Specify technologies used.
@@ -19,7 +19,7 @@ export const projects = [
     languages: ['Next.js', 'TypeScript', 'Prisma', 'Stripe'],
   },  
   {
-    title: 'Gmail clone',
+    title: 'Gmail Clone',
     githubUrl: 'https://github.com/asaferdman23/gmail-ui',
     externalUrl: '',
     languages: ['Vue.js', 'JavaScript','React'],
