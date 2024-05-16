@@ -1,6 +1,7 @@
 # 🎨 Creative Portfolio
 
 ![Home Section](./public/demo.gif)
+[View Live Demo](https://asafportfolio.onrender.com/)
 
 This portfolio is a showcase of a frontend developer's work, featuring various sections.
 
