@@ -11,7 +11,7 @@ const Contact = React.forwardRef<HTMLDivElement>((props, ref) => {
       <div className="contact-text">
         The fastest way to get in touch with me is to send me a message on{' '}
         <a
-          href="https://linkedin.com/in/your-profile"
+          href="https://www.linkedin.com/in/asaferdman/"
           target="_blank"
           rel="noreferrer"
         >
@@ -19,7 +19,7 @@ const Contact = React.forwardRef<HTMLDivElement>((props, ref) => {
         </a>{' '}
         or a DM on{' '}
         <a
-          href="https://instagram.com/yourusername"
+          href="https://instagram.com/asaf_erdman"
           target="_blank"
           rel="noreferrer"
         >

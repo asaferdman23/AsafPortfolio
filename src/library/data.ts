@@ -1,9 +1,9 @@
 // 📦 Projects list: Customize with your own project details.
 export const projects = [
   {
-    title: 'Airbnb clone', // Enter project title.
-    githubUrl: 'https://github.com/KarinPit/AirBnB', // Enter GitHub URL.
-    externalUrl: '', // Enter live site URL.
+    title: 'Airbnb clone',
+    githubUrl: 'https://github.com/KarinPit/AirBnB', 
+    externalUrl: '',
     languages: ['Vue.js', 'React', 'JavaScript'], // Specify technologies used.
   },
   {
@@ -30,24 +30,18 @@ export const projects = [
 export const socialLinks = [
   {
     name: 'GitHub',
-    url: '/', // Enter GitHub link.
-    
+    url: 'https://github.com/asaferdman23', // Enter GitHub link.
     icon: 'Github',
   },
   {
-    name: 'Instagram',
-    url: '', // Enter GitHub link.
-    icon: 'Instagram',
-  },
-  {
     name: 'LinkedIn',
-    url: '', // Enter GitHub link.
+    url: 'https://www.linkedin.com/in/asaferdman/', // Enter GitHub link.
     icon: 'LinkedIn',
   },
   {
-    name: 'Blog',
-    url: '', // Enter GitHub link.
-    icon: 'Blog',
+    name: 'Facebook',
+    url: 'https://www.facebook.com/asaf.erdman', // Enter GitHub link.
+    icon: 'Facebook',
   },
 ]
 

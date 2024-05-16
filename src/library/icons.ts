@@ -4,6 +4,7 @@ import { VscGithub as Github } from 'react-icons/vsc'
 import { RxExternalLink as Link } from 'react-icons/rx'
 import { MdOutlineHorizontalRule as Line } from 'react-icons/md'
 import { BsInstagram as Instagram } from 'react-icons/bs'
+import { BsFacebook as Facebook } from 'react-icons/bs'
 import {
   RiTwitterLine as Twitter,
   RiLinkedinFill as LinkedIn,
@@ -22,4 +23,5 @@ export {
   LinkedIn,
   Twitter,
   Blog,
+  Facebook,
 }
