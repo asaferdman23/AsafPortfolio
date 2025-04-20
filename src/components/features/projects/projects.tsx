@@ -28,7 +28,7 @@ const Projects = React.forwardRef<HTMLDivElement>((props, ref) => {
               </a>
               <a
                 target={'_blank'}
-                href={project.externalUrl}
+                href={project.externalUrl || project.githubUrl}
                 rel="noreferrer"
                 aria-label="live"
               >
